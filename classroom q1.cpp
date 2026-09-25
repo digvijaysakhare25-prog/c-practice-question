@@ -4,6 +4,6 @@ int main()
 {
     int age;
     age=19;
-    cout<<"age is : "<<age<<endl;
-    return 0;
+    cout<<"age is : "<<age;
+return 0;
 }
