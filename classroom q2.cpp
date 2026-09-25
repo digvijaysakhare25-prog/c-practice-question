@@ -1,3 +1,4 @@
+//take value of age from user
 #include<iostream>
 using namespace std;
 int main(){
