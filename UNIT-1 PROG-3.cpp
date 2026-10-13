@@ -7,7 +7,8 @@ class student{
  void display(){
 cout<<"Enter name:";
 cin>>name;
-cout<<"Hello,"<<name<<endl;
+cout<<"Hello,"<<name;
+cout<<endl;
 }
 };
 int main(){
