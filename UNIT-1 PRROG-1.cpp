@@ -5,7 +5,8 @@ class student{
 int rollno;
 string name;
 string result;
-float marks_S1,marks_S2, marks_S3,
+float marks_S1,marks_S2,
+ marks_S3,
 totalMarks,percentage;
 public:
 void acceptditails(){
