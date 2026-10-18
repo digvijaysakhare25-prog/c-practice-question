@@ -10,7 +10,7 @@ float marks_S1,marks_S2,
 totalMarks,percentage;
 public:
 void acceptditails(){
-cout<<"Enter roll number: ";
+cout<<"Enter roll number:";
 cin>>rollno;
 cout<<"Enter name: ";
 cin>>name;
